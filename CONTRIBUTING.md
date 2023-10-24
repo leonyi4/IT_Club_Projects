@@ -20,11 +20,11 @@ At Payap IT Club, we are dedicated to providing a welcoming and inclusive commun
 
 7. **No Discrimination:** Discrimination, whether based on race, gender, sexual orientation, age, disability, or any other factor, will not be tolerated.
 
-8. **Reporting Violations:** If you witness or experience behavior that violates these guidelines, please report it to the [Designated Contact or Email].
+8. **Reporting Violations:** If you witness or experience behavior that violates these guidelines, please report it to the <payapitclub@gmail.com>.
 
 ## Consequences
 
-Violations of these guidelines may result in actions such as warnings, temporary suspension, or permanent banning from the community. Decisions will be made by [Community Moderators/Administrators] and will be final.
+Violations of these guidelines may result in actions such as warnings, temporary suspension, or permanent banning from the community. Decisions will be made by the current club president and will be final.
 
 ## How to Contribute
 

@@ -20,4 +20,4 @@ We welcome contributions from club members and external contributors. Please fol
 
 ## License
 
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
+This project is licensed under the MIT License - see the [LICENSE](LISCENSE.md) file for details.
