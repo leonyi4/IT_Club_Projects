@@ -1,6 +1,7 @@
 # Payap IT Club Project Repository
 
 This repository stores the projects and resources for the IT Club at Payap University.
+The Payap IT Club blog can be found here: `https://www.payapitclub.wuaze.com/`
 
 ## Table of Contents
 
